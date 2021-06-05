@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there:atom:
 ### I'am João Paulo
 
 - I live in :brazil:, northeast:sunglasses::ocean:
