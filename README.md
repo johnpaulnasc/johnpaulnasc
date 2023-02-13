@@ -16,7 +16,7 @@
   <img align="center" alt="JP-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
   <img align="center" alt="JP-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
   <img align="center" alt="JP-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"> 
-  <img align="right" alt="JP-BabyYoda" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-baby-yoda-15.gif">
+  <img align="right" alt="JP-BabyYoda" height="100" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-baby-yoda-15.gif">
 </div>
 
   ##
