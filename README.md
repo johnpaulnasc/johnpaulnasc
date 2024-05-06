@@ -3,7 +3,7 @@
 <h1>
    <br> <a href="https://github.com/johnpaulnasc/jonhpaul5">
      <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
-    <span>Carlos Rogério</span>
+    <span>João Borges</span>
 </h1>
 <h3>A Self-taught Front-end Developer</h3>
 <p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
