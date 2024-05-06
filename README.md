@@ -15,9 +15,12 @@
 
 <br> <h3>Let’s work together?</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/) 
-[![Instagram](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/johnpaulnasc/) 
-[![Email](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=gmail&logoColor=62b1d4&color:FFF)](joao.borges@lavid.ufpb.br)
+
+<div> 
+  <a href="https://www.instagram.com/johnpaulnasc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:joaopauloborges1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 <h3 align="left">Studying...</h3>
