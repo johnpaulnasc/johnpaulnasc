@@ -15,8 +15,8 @@
 
 <br> <h3>Let’s work together?</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/) 
-[![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/johnpaulnasc/) 
+[![LinkedIn](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/) 
+[![Instagram](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/johnpaulnasc/) 
 
 <h3 align="left">Studying...</h3>
 <div>
