@@ -20,21 +20,13 @@
 
 <h3 align="left">Studying...</h3>
 <div>
-<img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
-<img align="center" alt="html5" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">   
-<img align="center" alt="CSS3" height="30" width="30"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
-<img align="center" alt="Javascript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="Node-Js" height="30" width="30" src="https://pluspng.com/img-png/nodejs-png--400.png">
-<img align="center" alt="git"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-<img align="center" alt="github"   height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
-<img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="bootstrap" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
-<img align="center" alt="figma" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
-<img align="center" alt="angularjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-<img align="center" alt="npm" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-<img align="center" alt="Carlos-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="Carlos-word-press" height="30" width="30" src="https://www.tampapcwebdesign.com/wp-content/uploads/2015/07/wordpress-icon.png">
-<img align="center" alt="discordjs" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg">
+  <img align="center" alt="JP-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JP-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="JP-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+  <img align="center" alt="JP-Go" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="JP-Docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"> 
+  <img align="center" alt="JP-Kubernetes" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg"> 
+  <img align="right" alt="JP-BabyYoda" height="100" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/02/gifs-do-baby-yoda-15.gif">
 <br><br>
 <img align="center" alt="Carlos-Python" height="30" width="30" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-512.png">
 <img align="center" alt="Carlos-Power-Bi" height="30" width="30" src="https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png">
