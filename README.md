@@ -7,7 +7,7 @@
 </h1>
 <h3>A Devops Engineer</h3>
 <p align="justfy">👋Hello! I'm João, a technology enthusiast passionate about infrastructure and the DevOps concept. Currently based in the beautiful city of João Pessoa, where I combine my passion for technology with the continuous pursuit of automation and efficiency in development and operations processes.
-<br>
+</a></p><br>
 <p align="justfy">💻 In my day-to-day, I'm always seeking ways to improve the integration between development and operations, ensuring a continuous and reliable delivery of software. I have experience with various tools and practices, from infrastructure provisioning to implementing CI/CD pipelines.
    <a href="https://www.instagram.com/johnpaulnasc/">(johnpaulnasc)</a></p><br>
 <p align="justfy">🔧 Furthermore, I'm a strong advocate for the DevOps culture, believing that collaboration between teams and automation are essential for the success of any software project. I'm always open to learning and sharing knowledge with the community.
