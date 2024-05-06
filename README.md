@@ -15,15 +15,12 @@
 <br>
 <h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
 
-<br> <h3>Let’s work together?</h3> 
-
-
+<br> <h3>🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.</h3> 
 <div> 
   <a href="https://www.instagram.com/johnpaulnasc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopauloborges1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
 
 <h3 align="left">Studying...</h3>
 <div>
