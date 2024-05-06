@@ -2,7 +2,7 @@
 
    <br> <a href="https://github.com/johnpaulnasc/jonhpaul5">
       <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
-    <span>João Borges</span>
+    ##João Borges
 
 <h3>A Devops Engineer</h3>
 <p align="justfy">👋Hello! I'm João, a technology enthusiast passionate about infrastructure and the DevOps concept. Currently based in the beautiful city of João Pessoa, where I combine my passion for technology with the continuous pursuit of automation and efficiency in development and operations processes.
