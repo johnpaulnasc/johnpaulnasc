@@ -14,10 +14,8 @@
 <p align="justfy">🔧 Furthermore, I'm a strong advocate for the DevOps culture, believing that collaboration between teams and automation are essential for the success of any software project. I'm always open to learning and sharing knowledge with the community.
 <br>
    </p>
-<h4>"Repetition with correction to exhaustion makes perfect."</h4>
-
 <br> 
-<p align="justfy">🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.
+<p align="justfy">🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.</p>
 <div> 
   <a href="https://www.instagram.com/johnpaulnasc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopauloborges1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
