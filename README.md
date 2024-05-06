@@ -6,7 +6,7 @@
     <span>João Borges</span>
 </h1>
 <h3>A Devops Engineer</h3>
-<p align="justfy">I am a Front-end Developer, and I live in the countryside of São Paulo, Brazil. I started programming in 2019, when the Pandemic led me to explore the world of HTML5, CSS3, JavaScript, Node.Js and Angular. Since then, I have been learning new technologies and improving my skills. I am passionate about modern web design, which values minimalism, indexing, and responsiveness.
+<p align="justfy">Hello! I'm João, a technology enthusiast passionate about infrastructure and the DevOps concept. Currently based in the beautiful city of João Pessoa, where I combine my passion for technology with the continuous pursuit of automation and efficiency in development and operations processes.
 <br>
 <p align="justfy">I am passionate about nature, astronomy, and technology. Some of my hobbies are camping, trekking, studying, and developing strategies for e-commerce.
    <a href="https://www.instagram.com/0pripyat/">(@0pripyat)</a></p><br>
