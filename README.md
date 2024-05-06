@@ -13,7 +13,7 @@
 <p align="justfy">💻 In my day-to-day, I'm always seeking ways to improve the integration between development and operations, ensuring a continuous and reliable delivery of software. I have experience with various tools and practices, from infrastructure provisioning to implementing CI/CD pipelines.
 <p align="justfy">🔧 Furthermore, I'm a strong advocate for the DevOps culture, believing that collaboration between teams and automation are essential for the success of any software project. I'm always open to learning and sharing knowledge with the community.
 <br>
-<h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
+<h4>"Repetition with correction to exhaustion makes perfect."</h4>
 
 <br> 
 <p align="justfy">🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.
