@@ -1,7 +1,7 @@
 <img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 <h1>
-   <br> <a href="https://github.com/0pripyat92/0pripyat92">
+   <br> <a href="https://github.com/johnpaulnasc/jonhpaul5">
      <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
     <span>Carlos Rogério</span>
 </h1>
