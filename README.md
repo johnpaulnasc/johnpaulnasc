@@ -20,7 +20,7 @@
 
 <h3 align="left">Studying...</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,java,sql,git,github,c,cpp,docker,go,kubernetes&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,cs,java,git,github,c,cpp,docker,go,kubernetes&perline=8" />
 <br><br>
 </div>
  <br>
