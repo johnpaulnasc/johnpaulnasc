@@ -32,7 +32,8 @@
 
   <h3 align="left">GitHub Stats</h3>
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=0pripyat92&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=62b1d4&text_color=FFF&border_radius=3&border_color=62b1d4c&icon_color=62b1d4&theme=jolly)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnpaulnasc=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=0dL1n&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 
 
