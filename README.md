@@ -15,7 +15,8 @@
 <br>
 <h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
 
-<br> <h3>🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.</h3> 
+<br> 
+<p align="justfy">🚀 If you're interested in infrastructure, DevOps, or just want to exchange ideas about technology, feel free to reach out! Let's build together a more automated and efficient future.
 <div> 
   <a href="https://www.instagram.com/johnpaulnasc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:joaopauloborges1995@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
