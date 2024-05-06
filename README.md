@@ -7,19 +7,17 @@
 </h1>
 <h3>A Devops Engineer</h3>
 <p align="justfy">👋Hello! I'm João, a technology enthusiast passionate about infrastructure and the DevOps concept. Currently based in the beautiful city of João Pessoa, where I combine my passion for technology with the continuous pursuit of automation and efficiency in development and operations processes.
-</a></p><br>
+<br>
 <p align="justfy">💻 In my day-to-day, I'm always seeking ways to improve the integration between development and operations, ensuring a continuous and reliable delivery of software. I have experience with various tools and practices, from infrastructure provisioning to implementing CI/CD pipelines.
-   <a href="https://www.instagram.com/johnpaulnasc/">(johnpaulnasc)</a></p><br>
 <p align="justfy">🔧 Furthermore, I'm a strong advocate for the DevOps culture, believing that collaboration between teams and automation are essential for the success of any software project. I'm always open to learning and sharing knowledge with the community.
-</a></p><br>
+<br>
 <h4>"Repetition with correction to exhaustion makes perfect."</h4></p>
 
 <br> <h3>Let’s work together?</h3> 
 
-[![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/0pripyat/) 
-[![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/0pripyat/) 
-[![YouTube](https://img.shields.io/badge/-0_pripyat-000?style=for-the-badge&logo=x&logoColor=62b1d4&color:FFF)](https://twitter.com/0_pripyat) 
-[![WhatsApp](https://img.shields.io/badge/-+5511991033223-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5511991033223)
+[![LinkedIn](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/) 
+[![Instagram](https://img.shields.io/badge/-0pripyat-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/johnpaulnasc/) 
+
 <h3 align="left">Studying...</h3>
 <div>
 <img align="center" alt="Carlos-VS-Code" height="30" width="30"src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">         
