@@ -1,4 +1,4 @@
-<img align="right" padding="20px" alt="Coragem" height="250" width="350" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
+<img align="right" padding="20px" alt="Coragem" height="150" width="250" border-radios="30" src="https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-29.gif">
 
 <h1>
    <br> <a href="https://github.com/johnpaulnasc/jonhpaul5">
