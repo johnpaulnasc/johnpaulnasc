@@ -17,6 +17,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=linkedin&logoColor=62b1d4&color:FFF)](https://www.linkedin.com/in/jo%C3%A3o-borges-1a01aa221/) 
 [![Instagram](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=instagram&logoColor=62b1d4&color:FFF)](https://www.instagram.com/johnpaulnasc/) 
+[![Email](https://img.shields.io/badge/-johnpaulnasc-000?style=for-the-badge&logo=gmail&logoColor=62b1d4&color:FFF)](joao.borges@lavid.ufpb.br)
+
 
 <h3 align="left">Studying...</h3>
 <div>
