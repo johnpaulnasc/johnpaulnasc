@@ -1,7 +1,7 @@
 
 
 <h1>
-   <img align="right" padding="20px" alt="Coragem" height="150" width="250" border-radios="30" src="https://giphy.com/embed/qgQUggAC3Pfv687qPC">
+   <img align="right" padding="20px" alt="Coragem" height="150" width="250" border-radios="30" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3MyaXo3eTgzMHg1aGpwYnBzcXJheHhmYXZjZGJkZ3RmdXpocWU3NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
    <br> <a href="https://github.com/johnpaulnasc/jonhpaul5">
       <img align="left" alt="Lua" width="36px" src="https://i.pinimg.com/originals/44/a7/10/44a710f29062f87045990c6b30675f54.png"></a>
     <span>João Borges</span>
